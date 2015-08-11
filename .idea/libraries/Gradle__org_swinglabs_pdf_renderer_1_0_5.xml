@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.swinglabs:pdf-renderer:1.0.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.swinglabs/pdf-renderer/1.0.5/da7e5d48afadcfa3c87fae1ff5c432d7dca8250e/pdf-renderer-1.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.swinglabs/pdf-renderer/1.0.5/8b48b0e332e1d806b08a217a550f05ee5ffc0bd5/pdf-renderer-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

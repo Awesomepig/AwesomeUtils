@@ -1,0 +1,21 @@
+group 'com.asomepig'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.5
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile (
+            'net.sf.jacob-project:jacob:1.14.3'
+            ,'jexcelapi:jxl:2.6'
+            ,'org.swinglabs:pdf-renderer:1.0.5'
+            ,'com.google.guava:guava:18.0'
+    )
+}

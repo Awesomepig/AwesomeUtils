@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.sf.jacob-project:jacob:1.14.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.jacob-project/jacob/1.14.3/ffcc659a65310b27c0d6e967b43390c96a9686d7/jacob-1.14.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.jacob-project/jacob/1.14.3/921ade72fb540abbd9bb92bee9305b4e5df01d69/jacob-1.14.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
